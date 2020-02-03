@@ -1,5 +1,7 @@
 {
   "name": "intercom03",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
